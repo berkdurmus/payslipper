@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">payslipper</string>
+    <string name="title_activity_main">payslipper</string>
+    <string name="package_name">com.payslipper.app</string>
+    <string name="custom_url_scheme">com.payslipper.app</string>
+</resources>
