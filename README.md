@@ -60,19 +60,31 @@ https://github.com/berkdurmus/payslipper/assets/32547890/7da1b17c-7eca-45bf-9a34
    ```bash
    npm run build
    ```
-6. **Copy the web assets to the native projects:**
+6. **Init Capacitor:**
+   ```bash
+   npx cap init
+   ```
+7. **Add iOS:**
+   ```bash
+   npx cap add ios
+   ```
+8. **Add Android:**
+   ```bash
+   npx cap add android
+   ```
+9.  **Copy the web assets to the native projects:**
    ```bash
    npx cap copy
    ```
-7. **Sync any installed plugins:**
+10. **Sync any installed plugins:**
    ```bash
    npx cap sync
    ```
-8. **Run the app on iOS:**
+11. **Run the app on iOS:**
    ```bash
    npx cap run ios
    ```
-9. **Run the app on Android:**
+12. **Run the app on Android:**
    ```bash
    npx cap run android
    ```
