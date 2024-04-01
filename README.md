@@ -1,5 +1,6 @@
 # Payslipper
-<img width="207" alt="Screenshot 2024-04-01 at 09 29 52" src="https://github.com/berkdurmus/payslipper/assets/32547890/ae77a3b5-e162-442b-8d73-7b76ec385492">
+
+<img width="207" alt="Screenshot 2024-04-01 at 09 29 52" src="https://github.com/berkdurmus/payslipper/assets/32547890/5b536951-84be-46d2-b696-897bb48985ce">
 
 Payslipper is a versatile application designed to provide users with easy access to their payslip information. Catering to both iOS and Android platforms, Payslipper leverages the power of Capacitor to create a seamless cross-platform experience. With features that include viewing payslips by month/year, downloading payslip PDFs, and a user-friendly interface, Payslipper simplifies how users interact with their financial documents.
 
@@ -12,19 +13,26 @@ Payslipper is a versatile application designed to provide users with easy access
 ## Videos
 - **On web**: (Responsive)
 
-https://github.com/berkdurmus/payslipper/assets/32547890/e8ea7c30-0786-4f21-9fb0-b3f14756895f
+
+https://github.com/berkdurmus/payslipper/assets/32547890/5910fa3b-c9fd-4ed1-9e67-23a789b24786
+
+
 
 - **On iOS**: (Responsive)
 
 
-https://github.com/berkdurmus/payslipper/assets/32547890/c389f728-c448-4b8b-bb32-0e3b008a1177
+https://github.com/berkdurmus/payslipper/assets/32547890/2e93646d-a241-416e-b33c-9240a5d2e356
+
+
 
 
 
 - **On android**: (Responsive)
 
 
-https://github.com/berkdurmus/payslipper/assets/32547890/70b6f56e-1879-49b3-85aa-2f0c04309c77
+https://github.com/berkdurmus/payslipper/assets/32547890/7da1b17c-7eca-45bf-9a34-5a1de1a11256
+
+
 
 
 
